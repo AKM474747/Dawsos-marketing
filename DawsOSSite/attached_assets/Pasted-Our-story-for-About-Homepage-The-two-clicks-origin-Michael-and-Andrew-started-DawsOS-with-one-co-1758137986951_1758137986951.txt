@@ -1,0 +1,112 @@
+Our story (for About / Homepage)
+The two-clicks origin
+Michael and Andrew started DawsOS with one constraint: no number anywhere in the UI unless you can reach its evidence in two clicks. Black-box “risk scores” weren’t cutting it for boards, auditors, or regulators. So they built a Propagation OS—a system that explains how shocks travel through companies, portfolios, and policies, with probabilities that are calibrated and reproducible.
+They wrote an operating constitution, not just code: governed schemas, versioned events, typed temporal edges, patterns that create virtual edges (never altering facts), and snapshots that let you replay any decision state exactly. The result: every prediction returns a causal path, its provenance, a calibrated probability, and a snapshot ID you can replay on demand. (“Two clicks to evidence” isn’t a tagline; it’s an interface contract.)
+What makes our method different
+Causality before prediction: the chain comes first; the number comes second.
+Calibration before output: probabilities must meet strict error targets or degrade conservatively.
+Provenance by default: every fact, version, and time window is traceable.
+Reproducibility: any result can be replayed from its snapshot.
+Governed change: schemas evolve via proposals, migrations, and review—not vibes.
+SLOs as product: latency, accuracy, reliability aren’t back-office charts; they’re UI promises.
+That’s how DawsOS shipped from idea → architecture → operating model, and why teams trust it when decisions (and audits) are on the line.
+How we built it (The Method)
+Phase 0 — Frame the shocks
+Define the domains, events, and outcomes that matter. Name the predicates (typed relationships), the lags, and validity windows.
+Phase 1 — Govern the facts
+Event taxonomy (versioned topics), canonical envelope (event_id, ts, version, producer), ingest → validate → quarantine → entity resolution.
+Phase 2 — Graph & patterns
+Typed, temporal edges; patterns produce virtual edges only. Traversal explains why and how fast propagation happens.
+Phase 3 — Reasoning & calibration
+Calibrate probabilities to target error (ECE/Brier) before you render any output.
+Phase 4 — Snapshots & replay
+Every prediction binds to a snapshot—so “Reproduce with snapshot” is one click anywhere results appear.
+Phase 5 — SLOs made visible
+Performance and reliability become UI badges (p95 traversal, alert E2E, calibration state). If it matters, it’s in the interface.
+The retail layer (without confusing the enterprise product)
+We productized the way we built DawsOS into a simple “Build like DawsOS” track for creators, consultants, and startup teams:
+The Idea → Code Kit (ZIP)
+What’s inside
+System prompts & persona scripts for “operating-constitution” work.
+Templates: event taxonomy, schema change playbook, predicate catalog, pattern lifecycle gates.
+Blueprints: agent-first workflow scaffolds, pricing/packaging matrices, SLO badge patterns.
+n8n automations: sale→fulfillment, KPI watchdog (RPS_net vs CPC), affiliate engine, content factory, release pipeline.
+A 72-hour Quickstart: from blank page to architecture draft and agent workflows.
+Outcomes
+Draft a coherent business + software architecture in a weekend.
+Generate governed templates you can hand to engineers, ops, and counsel.
+Move from “prompting” to operating.
+Agent Workbench (light subscription)
+A growing template library + exporters. One click turns your artifacts into runnable n8n flows, GPT profiles, and starter repos.
+Important: The Kit and Workbench are methods, not the DawsOS platform. They’re a separate “Retail Kit” path (clearly labeled) that teaches you to build with our operating model.
+Web content blocks (ready to paste)
+Homepage — new below-the-fold section
+Headline: Build like DawsOS
+Subhead: The method we used to scale from idea to an enterprise-grade OS—now a simple kit for founders, operators, and creators.
+Bullets:
+Two clicks to evidence (as a build rule)
+Governed schemas & versioned events
+Calibrated outputs and replayable snapshots
+CTA (secondary): Explore the Method →
+Badge: Retail Kit
+Methods landing hero
+Headline: From idea to software architecture—this weekend.
+Subhead: A ZIP with prompts, templates, governance checklists, agent workflows, and n8n automations. Built from the method behind DawsOS.
+Primary CTA: Download the Kit
+Secondary CTA: See what’s inside
+What’s inside (tile copy)
+Operating constitution templates — product, governance, security, change control.
+Event taxonomy & predicate catalogs — versioned topics, typed edges, lags, validity windows.
+Agent workflows (n8n) — sale→fulfillment, KPI watchdog, content factory, affiliate engine, release pipeline.
+SLO in the UI — badges, thresholds, and runbooks baked into components.
+72-hour Quickstart — a checklist to ship a real draft by Monday.
+Why it’s different
+Most “prompt packs” sell tricks. This is a governed operating model that ships evidence, calibration, and replay into your product from day one.
+Pricing (example layout)
+Starter — $49
+Prompts + core templates + Quickstart + 1 agent (fulfillment).
+Pro — $199
+Starter + videos + 6-month updates + Discord + all n8n agents + “how to sell” scripts.
+Bundle — Pro + 3 months Workbench
+Build, export, and run your flows.
+Guarantee
+If you don’t generate a complete draft in 72 hours, we’ll refund you—no questions asked.
+FAQ (snippets)
+Is this DawsOS? No. This is the method we used to build it.
+Can I use the templates commercially? Yes—resale of the Kit itself is not permitted.
+Does it require code? Only for the optional n8n workflows; everything else is docs and structure.
+Founders sidebar (About page)
+Michael — product + governance. Turned “two clicks to evidence” into product rules: source before chart, calibration with every number, replay anywhere results appear.
+Andrew — growth + automation. Operationalized the method: event taxonomies, meters, SLO monitors, and an automation layer so the business runs itself.
+Together, they made two innovations:
+The technology (causal graph reasoning with calibration and provenance).
+The operating model (governed change, reproducible evidence, SLOs in the UI).
+Content flywheel (for the retail track)
+60-second video script (YouTube Shorts)
+Hook (0–5s): “We built an OS for tracing how shocks spread. Here’s the method we used.”
+Problem (5–15s): “Most teams start with prompts and end up with guesswork.”
+Method (15–40s): “We start with events, predicates, lags → governed schemas → patterns make virtual edges → probabilities are calibrated before output → snapshots make every result replayable.”
+Offer (40–55s): “We compressed it into a ZIP: prompts, templates, and n8n automations.”
+CTA (55–60s): “Build like DawsOS—link in bio.”
+X thread outline (8–10 tweets)
+“Two clicks to evidence” as a build rule.
+Why black-box analytics fail at audit time.
+Event taxonomy + canonical envelope.
+Patterns = virtual edges only.
+Calibrate before rendering.
+Snapshots or it didn’t happen.
+SLOs as UI elements.
+We turned this into a Kit.
+What’s inside (tiles).
+Link + guarantee.
+Email sequence (3 messages)
+Day 0: “Ship an operating constitution in 72 hours.” (Quickstart attached)
+Day 2: “Patterns, not guesses—why virtual edges change everything.” (show a mini example)
+Day 7: “Export to Workbench in one click.” (attach tutorial; optional discount)
+Where the n8n agents fit on the Methods site
+Each agent has its own mini page (or accordion card) with:
+What it does → Why it matters → How to import (.json) → MS Graph scopes → Test steps
+Link those pages from the Kit “What’s inside” section and from your Methods Coach GPT so buyers can self-serve setup.
+Final positioning line (use everywhere on retail pages)
+“Build like DawsOS: governed templates, agent workflows, and a 72-hour path from idea to architecture.”
+If you want, I can turn this into a pair of ready-to-ship pages (Homepage section + full Methods landing) with exact HTML copy blocks and the n8n agent cards formatted for your site’s component library.

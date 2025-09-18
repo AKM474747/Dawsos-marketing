@@ -1,0 +1,92 @@
+love it—here’s a clean, non-technical way to weave Bloomberg, MSCI, and Aladdin into your user stories and pitches so DawsOS is clearly better, different, and complementary (not a replacement).
+
+What DawsOS is (updated, plain)
+
+DawsOS is the “propagation OS” that shows how shocks travel, who’s next, how fast, and how sure—with open evidence you can share. You keep Bloomberg for market data/news, keep MSCI for factors/ESG/risk lenses, and keep Aladdin for portfolio/risk/ops. DawsOS sits beside them to explain the “why-next” and turn it into actions you can defend.
+
+⸻
+
+Better · Different · Together (by platform)
+
+Bloomberg
+    •    Use Bloomberg for: real-time prices, news, research, messaging.
+    •    Use DawsOS for: turning a headline or print into an explainable causal chain with a calibrated next-impact list and timing.
+    •    Together: a story breaks on Bloomberg → drop it into DawsOS → get the propagation path and confidence → brief with the evidence panel → note the action back in your Bloomberg workflow.
+
+MSCI (Barra, Indexes, ESG)
+    •    Use MSCI for: factor/ESG frameworks, benchmarks, risk decomposition.
+    •    Use DawsOS for: showing how a shock propagates into the factors/holdings you already speak in (not just factor betas), with an audit trail you can reopen.
+    •    Together: map DawsOS paths to MSCI factors/ESG themes → quantify “who/what/when” → present it in the same language your IC and risk teams already use.
+
+Aladdin
+    •    Use Aladdin for: portfolio/RMS, compliance, orders, attribution.
+    •    Use DawsOS for: pre-decision foresight—“what’s likely next and why”—plus a replayable snapshot to defend the call.
+    •    Together: push DawsOS scenario deltas & watchlists into Aladdin to check limits, size hedges, and track outcomes—always with the evidence link attached.
+
+⸻
+
+Non-technical user stories (now with complement)
+    •    Risk Manager (Bank):
+When a downgrade rumor hits on Bloomberg, I open DawsOS to see the next-order impacts and timing with confidence, then I hand the path and sources to my committee. We log the decision and, if needed, run the hedge sizing in Aladdin using the same list.
+    •    Portfolio Analyst:
+When a supplier outage crosses the tape, I use DawsOS to trace the ripple through our names and related factors (MSCI), so I can rotate or hedge. I document the evidence and pass the action to Aladdin for checks and execution.
+    •    Policy Analyst:
+When a tariff is proposed, I run side-by-side scenarios in DawsOS (baseline vs. proposed) to show who’s hit next and when. I frame the results in MSCI factor/ESG terms and attach the evidence package to my brief.
+    •    Economist/Strategist:
+When macro prints surprise, Bloomberg gives me speed; DawsOS gives me the why-this-spreads map with calibrated odds; MSCI gives me a common language; Aladdin tracks the portfolio follow-through.
+    •    Credit Officer:
+When a counterparty weakens, I need more than a score. DawsOS gives a causal path plus provenance; I drop that into our Aladdin notes so audit sees exactly why we tightened limits.
+
+⸻
+
+Positioning lines you can say out loud
+    •    “Bloomberg tells you what happened; DawsOS shows how it spreads.”
+    •    “MSCI tells you what you own in factor/ESG terms; DawsOS shows how shocks reach those exposures.”
+    •    “Aladdin runs your book and controls; DawsOS makes the case for the move—with receipts.”
+
+⸻
+
+Elevator pitch (≈30s)
+
+Keep Bloomberg, MSCI, and Aladdin. DawsOS sits beside them to answer the missing question: who’s next and how sure are we? From any headline or signal, DawsOS returns an explainable path, calibrated probability, and a replayable snapshot you can drop into your Bloomberg workflow, speak about in MSCI factor/ESG language, and act on in Aladdin—all with two clicks to evidence.
+
+⸻
+
+1-minute pitch
+
+Markets move because shocks propagate. Bloomberg is unbeatable for speed and breadth; MSCI gives a common risk/ESG vocabulary; Aladdin is the system of record for portfolios and controls.
+DawsOS is the missing layer: it explains and forecasts propagation—who’s impacted next, how fast, and with what confidence—always with open evidence. Start from a Bloomberg event, translate the result into MSCI factors/ESG so leadership recognises it, and route the action into Aladdin for sizing and compliance. Decisions become faster and defensible because every claim links to a path, a source, and a snapshot you can replay.
+
+⸻
+
+3-minute pitch
+
+Problem. Data is abundant, but explainability is scarce. Bloomberg tells you what’s happening; MSCI tells you how you’re exposed; Aladdin keeps the book safe. None of them show the why-next with calibration you can bet a meeting on.
+What DawsOS does. It builds a causal chain from the trigger to likely next impacts, adds calibrated probabilities and timing, and packages the evidence so you can defend the call.
+How it fits.
+    1.    Discover in Bloomberg → push the item to DawsOS.
+    2.    Explain in DawsOS → path, confidence, timing, provenance, snapshot.
+    3.    Translate via MSCI → express the result in factor/ESG terms for committees.
+    4.    Execute and govern in Aladdin → limits, hedges, orders, tracking—evidence attached.
+Outcome. Less debate, cleaner minutes, quicker moves. You keep your stack; you gain the why.
+
+⸻
+
+5-minute pitch
+
+The landscape. Bloomberg, MSCI, and Aladdin are table stakes—data, lenses, and control. But when a tariff, downgrade, sanction, or outage hits, leaders still ask: “Who’s next, how soon, and how sure?”
+Our proposition. DawsOS is the propagation OS that turns any trigger into an explainable map of ripple effects with calibrated odds and a replayable snapshot.
+Why this is better & different (and not a rip-and-replace):
+    •    Versus Bloomberg: we don’t re-aggregate data; we convert signals into causal, time-aware paths you can defend.
+    •    Versus MSCI: we don’t stop at exposure; we show mechanisms that lead into factors/ESG, so your story matches your risk language.
+    •    Versus Aladdin: we’re not your RMS or OMS; we’re the pre-decision explainer that makes Aladdin actions quicker and cleaner.
+How it’s used together (day in the life):
+    •    9:12 — Bloomberg headline: “New export controls announced.”
+    •    9:15 — DawsOS returns the likely next-affected names and suppliers, with timing and confidence; you click “open evidence.”
+    •    9:18 — You translate the path into MSCI factor/ESG terms for the committee one-pager.
+    •    9:25 — You push the watchlist and scenario deltas into Aladdin to check limits, size a hedge, and track effectiveness.
+Result. One narrative across tools: what happened (Bloomberg), how it spreads (DawsOS), how it maps to your risk language (MSCI), and what you do about it (Aladdin).
+
+⸻
+
+If you want, I can turn this into a one-page “Better, Different, Together” slide plus a companion “day-in-the-life” workflow you can paste straight into a deck.

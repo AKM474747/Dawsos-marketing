@@ -1,0 +1,248 @@
+TSLA
+TESLA MOTORS INC
+NASDAQ
+4	-	C$579.64	$954.76	$2,317.22	
+$1,362.46
+142.7%
+$1,362.46
++142.7%
+-	$0.00	$0.00	-	-	-	-	-	2.07	United States	Consumer Cyclical	Auto - Manufacturers
+PYPL
+PAYPAL HOLDINGS INC COM
+NASDAQ
+939	-	C$91.91	$104,165.15	$86,248.92	
+-$17,916.23
+-17.2%
+-$17,916.23
+-17.2%
+-	$0.00	$0.00	-	-	-	-	-	1.44	United States	Financial Services	Financial - Credit Services
+ORCC
+Owl Rock Capital Corp
+-	1,890	-	C$18.82	$37,506.06	$35,576.98	
+-$1,929.08
+-5.1%
+$7,498.89
++20.0%
+Quarterly
+$9,427.97	$3,948.92	-	-	-	-	-	0.96	United States	Financial Services	Financial - Credit Services
+NBAM
+Brookfield Asset Management Ltd (Class A)
+-	973	-	$80.49	$45,576.59	$78,316.77	
+$32,740.18
+71.8%
+$35,535.11
++78.0%
+Quarterly
+$2,794.93	$2,059.14	-	-	-	-	-	-	Canada	-	-
+HHH
+HOWARD HUGHES HOLDINGS INC
+NYSE
+700	-	C$112.46	$64,603.38	$78,723.33	
+$14,119.95
+21.9%
+$14,119.95
++21.9%
+-	$0.00	$0.00	-	-	-	-	-	1.21	United States	Real Estate	Real Estate - Diversified
+DNOPY
+DINO POLSKA SA UNSPON ADS EACH REP 0.5 ORD SHS
+OTC
+5,535	-	C$17.29	$156,357.56	$95,727.74	
+-$60,629.83
+-38.8%
+-$60,629.83
+-38.8%
+-	$0.00	$0.00	-	-	-	-	-	0.73	United States	Consumer Defensive	Grocery Stores
+CGL.C
+ISHARE GLDBUL NN-HDG
+-	2,878	-	$42.61	$60,075.32	$122,631.58	
+$62,556.26
+104.1%
+$62,556.26
++104.1%
+-	$0.00	$0.00	-	-	-	-	-	-0.10	Canada	-	-
+BRK.B
+BERKSHIRE HATHAWAY-B-NEW
+NYSE
+245	-	C$675.01	$77,430.37	$165,306.25	
+$87,875.89
+113.5%
+$87,875.89
++113.5%
+-	$0.00	$0.00	-	-	-	-	-	0.79	United States	Financial Services	Insurance - Diversified
+BOIL
+Beyond Oil Ltd
+CNSX
+19,505	-	$3.09	$55,121.20	$60,270.45	
+$5,149.25
+9.3%
+$5,149.25
++9.3%
+-	$0.00	$0.00	-	-	-	-	-	-1.16	Canada	Consumer Defensive	Packaged Foods
+ABCP
+AMBASE CORP
+OTC
+23,356	-	C$0.40	$10,756.79	$9,392.12	
+-$1,364.67
+-12.7%
+-$1,364.67
+-12.7%
+-	$0.00	$0.00	-	-	-	-	-	0.49	United States	Real Estate	Real Estate - Services
+SXP
+SUPREMEX INC
+TSX
+27,275	-	$3.81	$106,943.53	$103,917.75	
+-$3,025.78
+-2.8%
+$5,663.38
++5.3%
+Quarterly
+$8,689.16	$6,805.26	$4,545.83	$54,550.00	$2.00	52.49%	51.01%	1.24	Canada	Consumer Cyclical	Packaging & Containers
+OCSL
+OAKTREE SPECIALTY LENDING CORP
+NASDAQ
+4,831	-	C$18.31	$132,120.65	$88,415.39	
+-$43,705.26
+-33.1%
+-$17,747.37
+-13.4%
+Quarterly
+$25,957.89	$12,606.42	$885.55	$10,626.65	$2.20	12.01%	8.04%	0.68	United States	Financial Services	Financial - Credit Services
+WEN
+WENDYS CO(THE)
+NASDAQ
+6,975	-	C$13.14	$104,933.97	$91,619.68	
+-$13,314.29
+-12.7%
+-$12,542.05
+-12.0%
+Quarterly
+$772.24	$772.24	$447.50	$5,369.97	$0.77	5.86%	5.12%	0.32	United States	Consumer Cyclical	Restaurants
+BTI
+BRITISH AMERICAN TOBACCO PLC SPONSORED ADR
+NYSE
+1,799	-	C$76.70	$81,911.18	$137,897.95	
+$55,986.78
+68.4%
+$78,253.42
++95.5%
+Quarterly
+$22,266.64	$10,541.11	$617.55	$7,410.58	$4.12	5.37%	9.05%	0.40	United States	Consumer Defensive	Tobacco
+EVVTY
+EVOLUTION GAMING GROUP AB ADR UNSPONSORED
+OTC
+1,570	-	C$121.93	$200,334.70	$191,431.69	
+-$8,903.02
+-4.4%
+-$4,175.81
+-2.1%
+Yearly
+$4,727.21	$4,727.21	$565.68	$6,788.19	$4.32	3.55%	3.39%	1.47	United States	Consumer Cyclical	Gambling, Resorts & Casinos
+XOM
+EXXON MOBIL CORP
+NYSE
+322	-	C$157.69	$40,110.68	$50,895.56	
+$10,784.88
+26.9%
+$17,815.39
++44.4%
+Quarterly
+$7,030.51	$1,520.09	$146.09	$1,753.03	$5.44	3.45%	4.37%	0.58	United States	Energy	Oil & Gas Integrated
+LVMUY
+LVMH MOET HENNESSY LO-ADR
+OTC
+425	-	C$165.72	$65,193.27	$70,389.32	
+$5,196.05
+8.0%
+$5,481.46
++8.4%
+Semi-Yearly
+$285.41	$285.41	$165.64	$1,987.68	$4.68	2.82%	3.05%	1.26	United States	Consumer Cyclical	Luxury Goods
+CNR
+CANADIAN NATIONAL RAILWAY
+TSX
+530	-	$131.54	$72,300.20	$69,716.20	
+-$2,584.00
+-3.6%
+$548.72
++0.8%
+Quarterly
+$3,132.72	$1,503.58	$156.79	$1,881.50	$3.55	2.70%	2.60%	0.85	Canada	Industrials	Railroads
+BTE
+BAYTEX ENERGY CORP.
+TSX
+23,838	-	$3.58	$98,779.66	$85,340.04	
+-$13,439.62
+-13.6%
+-$9,806.61
+-9.9%
+Quarterly
+$3,633.01	$2,079.03	$178.79	$2,145.42	$0.09	2.51%	2.17%	1.77	Canada	Energy	Oil & Gas Exploration & Production
+ISV
+INFORMATION SERVICES CORP CL A L
+TSX
+1,384	-	$37.53	$30,097.59	$51,941.52	
+$21,843.93
+72.6%
+$26,760.87
++88.9%
+Quarterly
+$4,916.94	$2,444.44	$106.11	$1,273.28	$0.92	2.45%	4.23%	0.59	Canada	Industrials	Specialty Business Services
+ISC
+INFORMATION SERVICES CORP
+-	1,604	-	$37.53	$41,069.65	$60,198.12	
+$19,128.47
+46.6%
+$20,235.23
++49.3%
+Quarterly
+$1,106.76	$1,106.76	$122.97	$1,475.68	$0.92	2.45%	3.59%	0.60	Canada	-	-
+NKE
+NIKE INC CL-B
+NYSE
+1,490.868	-	C$100.02	$146,351.87	$149,025.00	
+$2,673.13
+1.8%
+$3,332.74
++2.3%
+Quarterly
+$659.61	$659.61	$273.29	$3,279.43	$2.20	2.20%	2.24%	1.24	United States	Consumer Cyclical	Apparel - Footwear & Accessories
+ATD
+ALIMENTATION COUCHE-TARD
+TSX
+1,336	-	$72.70	$89,232.74	$97,287.52	
+$8,054.78
+9.0%
+$9,201.42
++10.3%
+Quarterly
+$1,146.64	$826.34	$86.84	$1,042.08	$0.78	1.07%	1.17%	0.61	Canada	Consumer Cyclical	Specialty Retail
+BBUC
+BROOKFIELD BUSINESS CORP CL A EXCHANGEABLE SUB VTG
+TSX
+3,995	-	$47.37	$143,174.80	$189,243.15	
+$46,068.35
+32.2%
+$46,946.01
++32.8%
+Quarterly
+$877.66	$877.66	$114.26	$1,371.08	$0.34	0.72%	0.96%	1.67	Canada	Financial Services	Asset Management
+BN
+Brookfield Corp.
+TSX
+2,528	-	$95.45	$164,668.49	$242,561.60	
+$77,893.11
+47.3%
+$79,457.07
++48.3%
+Quarterly
+$1,563.96	$1,155.01	$105.08	$1,260.97	$0.50	0.52%	0.77%	2.12	Canada	Financial Services	Asset Management
+HCC
+WARRIOR MET COAL LLC
+NYSE
+1,039	-	C$85.83	$71,740.92	$89,181.28	
+$17,440.36
+24.3%
+$17,616.56
++24.6%
+Quarterly
+$176.20	$176.20	$38.09	$457.09	$0.44	0.51%	0.64%	0.69	United States	Energy	Coal

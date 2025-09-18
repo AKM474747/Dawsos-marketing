@@ -1,0 +1,73 @@
+Here’s a compact, end-to-end plan for the DawsOS corporate website—grounded in your product vision, brand north star, comms package, and color tokens.
+Goals & Audience
+Primary goals: explain the “propagation OS,” prove credibility (explainability, calibration, provenance, replayability), drive qualified demos, and support sector-specific evaluation.
+Who we’re serving: risk managers, portfolio/credit analysts, strategists/economists, and policy analysts.
+Core Message & Proof
+Positioning (one-liner): “The Propagation OS for risk—causal shock chains that are transparent, calibrated, and replayable—always two clicks to evidence.”
+Pillars to show everywhere: Explainability (causal paths), Calibration (ECE ≤ 0.05), Temporal reasoning, Provenance, Reproducibility; include operational SLOs (e.g., traversal p95 < 10s, alert E2E < 2 min).
+Tagline options for hero tests: “See how shocks travel.” / “Two clicks to the cause.” / “Explainable. Calibrated. Reproducible.”
+Information Architecture (top-nav)
+Home
+Product (hub + feature pages)
+Chain Inspector (hero surface)
+Risk Dashboard (SLOs & pattern health)
+Scenario Builder (baseline vs deltas)
+Pattern Studio (draft→production, virtual edges only)
+Provenance Popover (sources, versions, IDs)
+Solutions
+Banks, Energy, Semiconductors (sector kits & patterns)
+Pricing (tenant base, seats, usage meters, packs, SLA tiers)
+Resources (Evidence gallery, Case studies, Blog, Changelog, Docs)
+Trust & SLOs (Security, governance guardrails, uptime/SLO dashboards)
+Company (About, Careers)
+Contact / Book a Demo
+Page-by-Page Outline
+1) Home
+Hero: succinct pitch + CTA (“Book a demo”). Sub-CTA: “Open a sample causal path.” Use a short elevator pitch and show a single illuminated path visual.
+Proof bar: “100% explainability,” “ECE ≤ 0.05,” “Snapshot-exact replays,” with links to evidence.
+How it works (3 steps): Ask → Traverse & calibrate → Explain & replay, each with “View causal path” / “Open evidence.”
+For your role: tiles for Risk Manager, Portfolio Analyst, Policy Analyst, Economist/Strategist, Credit Officer—each linking to tailored solution sub-pages.
+SLO snapshot: “Traversal p95 < 10s,” “Alert E2E < 2m,” “Calibration within SLO.”
+2) Product hub + features
+Hub: five pillars with micro-demos and glossary for nodes/edges, dotted vs solid (pattern vs fact), and snapshot capsules.
+Chain Inspector: interactive path + “two clicks to evidence.”
+Risk Dashboard: SLOs, pattern lift/FPR/drift; “Calibration state” paired with every probability.
+Scenario Builder: baseline vs proposed with timing/confidence and replay links.
+Pattern Studio: lifecycle (Draft→Review→Staging→Production) and guardrails (“virtual edges only”).
+3) Solutions (sector kits)
+Banks / Energy / Semis: show 6–10 validated patterns per sector where relevant; emphasize depth over sprawl and “two clicks to evidence.”
+4) Pricing
+Enterprise SKU stack: Base tenant + seats + usage (traversals/predictions) + pattern packs + SLA tiers. Include example meters and overage anchors.
+Retail Options Radar & Tooling (if public): Pro plan w/ run meters; Agent Kit & Idea→Code. (Can be hidden or separate funnel if B2B-only site.)
+5) Trust & SLOs
+Security: mTLS, RBAC, audit logs, outbound egress allowlist.
+Governance: schema/versioning rules; “no prediction without causal explanation.”
+Reproducibility: snapshot replay commitments.
+6) Resources
+Evidence gallery: anonymized causal paths with provenance popovers.
+Case studies & briefs: role-based stories drawn from comms package.
+Docs & changelog: reinforce auditability and product momentum.
+Design System (site)
+Palette: Graphite #1A1D23, Slate #2B303B (base); Signal Teal #00A3A3 & Electric Blue #3B82F6 (primary actions/active path); Provenance Purple #6D28D9 (sources/snapshots); Alert Amber #FFB020 and Risk Red #DC2626 for SLO states; White #FFFFFF for type surfaces.
+Type: Inter/IBM Plex Sans for UI & narrative; IBM Plex Mono for IDs, snapshot hashes, event envelopes, metrics.
+Motifs: solid edges = facts; dotted = virtual edges; snapshot lozenges; provenance popovers. Pair probabilities with calibration state; use stroke/shape before color; subtle motion for traversals; quick provenance pop-ins.
+Conversion Framework
+Primary CTA: “Book a demo.” Secondary: “Open evidence sample,” “Replay a snapshot.”
+Qualification form: role, sector, urgency, SLO needs.
+Event tracking: map website analytics to product “meters”: explain.opened, path.viewed, demo.submitted, pricing.configured. (Mirrors platform event taxonomy to smooth handoff.)
+SEO & Content
+Core themes/keywords: explainable risk, causal shock chains, calibrated probabilities, ECE ≤ 0.05, provenance, snapshot replay, temporal graph reasoning.
+Sample meta titles:
+“DawsOS — See How Shocks Travel (Explainable, Calibrated, Replayable)”
+“Propagation OS for Risk Teams | DawsOS”
+Evergreen articles: “Explainability vs. black-box scores,” “Provenance for audit,” “Calibration SLOs 101,” “Virtual edges & pattern governance.”
+IA → Build Checklist
+Navigation + sticky “Book a demo”
+Component kit: Evidence button, Snapshot token, Edge legend, Calibration badge, SLO status chip.
+Sector kit templates (Banks/Energy/Semis) with pattern callouts and timing/confidence visuals.
+Trust page with security/governance bullets and SLO bar fed from status endpoints.
+Phased Rollout
+V1 (foundation): Home, Product hub, one Sector page (Banks), Pricing (enterprise), Trust, Contact.
+V1.1: Evidence gallery + 2 case studies, Blog.
+V2: Remaining sectors, Options Radar & Tooling pages (if public), Changelog/docs.
+If you want, I can turn this plan into wireframes next (home + product hub + pricing + trust) and a site map diagram that your team can hand to design/engineering.

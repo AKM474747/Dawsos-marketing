@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: hsl(220, 13%, 9%);
+  --foreground: hsl(0, 0%, 98%);
+  --card: hsl(217, 12%, 15%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --popover: hsl(217, 12%, 15%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --primary: hsl(174, 100%, 32%);
+  --primary-foreground: hsl(0, 0%, 98%);
+  --secondary: hsl(217, 12%, 15%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --muted: hsl(217, 12%, 18%);
+  --muted-foreground: hsl(215, 20%, 65%);
+  --accent: hsl(217, 78%, 56%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 75%, 60%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --border: hsl(217, 12%, 18%);
+  --input: hsl(217, 12%, 15%);
+  --ring: hsl(174, 100%, 32%);
+  --chart-1: hsl(217, 78%, 56%);
+  --chart-2: hsl(174, 100%, 32%);
+  --chart-3: hsl(42, 92%, 56%);
+  --chart-4: hsl(147, 79%, 42%);
+  --chart-5: hsl(341, 75%, 51%);
+  --sidebar: hsl(217, 12%, 15%);
+  --sidebar-foreground: hsl(0, 0%, 98%);
+  --sidebar-primary: hsl(174, 100%, 32%);
+  --sidebar-primary-foreground: hsl(0, 0%, 98%);
+  --sidebar-accent: hsl(217, 12%, 18%);
+  --sidebar-accent-foreground: hsl(174, 100%, 32%);
+  --sidebar-border: hsl(217, 12%, 18%);
+  --sidebar-ring: hsl(174, 100%, 32%);
+  --font-sans: Inter, system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', Consolas, monospace;
+  --radius: 8px;
+
+  /* DawsOS Brand Colors */
+  --graphite: hsl(220, 13%, 9%);
+  --slate: hsl(217, 12%, 18%);
+  --signal-teal: hsl(180, 100%, 32%);
+  --electric-blue: hsl(217, 78%, 56%);
+  --provenance-purple: hsl(264, 67%, 48%);
+  --alert-amber: hsl(42, 100%, 55%);
+  --risk-red: hsl(0, 75%, 60%);
+}
+
+.dark {
+  --background: hsl(220, 13%, 9%);
+  --foreground: hsl(0, 0%, 98%);
+  --card: hsl(217, 12%, 15%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --popover: hsl(217, 12%, 15%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --primary: hsl(174, 100%, 32%);
+  --primary-foreground: hsl(0, 0%, 98%);
+  --secondary: hsl(217, 12%, 15%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --muted: hsl(217, 12%, 18%);
+  --muted-foreground: hsl(215, 20%, 65%);
+  --accent: hsl(217, 78%, 56%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 75%, 60%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --border: hsl(217, 12%, 18%);
+  --input: hsl(217, 12%, 15%);
+  --ring: hsl(174, 100%, 32%);
+  --sidebar: hsl(217, 12%, 15%);
+  --sidebar-foreground: hsl(0, 0%, 98%);
+  --sidebar-primary: hsl(174, 100%, 32%);
+  --sidebar-primary-foreground: hsl(0, 0%, 98%);
+  --sidebar-accent: hsl(217, 12%, 18%);
+  --sidebar-accent-foreground: hsl(174, 100%, 32%);
+  --sidebar-border: hsl(217, 12%, 18%);
+  --sidebar-ring: hsl(174, 100%, 32%);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased;
+    background-color: var(--graphite);
+    color: var(--foreground);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .gradient-border {
+    background: linear-gradient(90deg, var(--signal-teal), var(--electric-blue)) padding-box,
+                linear-gradient(90deg, var(--signal-teal), var(--electric-blue)) border-box;
+    border: 2px solid transparent;
+  }
+
+  .causal-path-demo {
+    background: linear-gradient(135deg, hsla(180, 100%, 32%, 0.05), hsla(217, 78%, 56%, 0.05));
+  }
+
+  .evidence-glow {
+    box-shadow: 0 0 20px hsla(180, 100%, 32%, 0.3);
+  }
+
+  .slo-indicator {
+    animation: pulse-gentle 3s ease-in-out infinite;
+  }
+
+  @keyframes pulse-gentle {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+
+  .snapshot-token {
+    font-family: var(--font-mono);
+    background: hsla(264, 67%, 48%, 0.1);
+    border: 1px solid hsla(264, 67%, 48%, 0.3);
+  }
+
+  .edge-legend {
+    border-left: 3px solid var(--signal-teal);
+  }
+
+  .calibration-badge {
+    background: linear-gradient(135deg, hsla(180, 100%, 32%, 0.2), hsla(217, 78%, 56%, 0.2));
+  }
+}
+
+@layer utilities {
+  .text-graphite {
+    color: var(--graphite);
+  }
+  
+  .text-slate {
+    color: var(--slate);
+  }
+  
+  .text-signal-teal {
+    color: var(--signal-teal);
+  }
+  
+  .text-electric-blue {
+    color: var(--electric-blue);
+  }
+  
+  .text-provenance-purple {
+    color: var(--provenance-purple);
+  }
+  
+  .text-alert-amber {
+    color: var(--alert-amber);
+  }
+  
+  .text-risk-red {
+    color: var(--risk-red);
+  }
+  
+  .bg-graphite {
+    background-color: var(--graphite);
+  }
+  
+  .bg-slate {
+    background-color: var(--slate);
+  }
+  
+  .bg-signal-teal {
+    background-color: var(--signal-teal);
+  }
+  
+  .bg-electric-blue {
+    background-color: var(--electric-blue);
+  }
+  
+  .bg-provenance-purple {
+    background-color: var(--provenance-purple);
+  }
+  
+  .bg-alert-amber {
+    background-color: var(--alert-amber);
+  }
+  
+  .bg-risk-red {
+    background-color: var(--risk-red);
+  }
+
+  .border-signal-teal {
+    border-color: var(--signal-teal);
+  }
+  
+  .border-electric-blue {
+    border-color: var(--electric-blue);
+  }
+  
+  .border-provenance-purple {
+    border-color: var(--provenance-purple);
+  }
+  
+  .border-alert-amber {
+    border-color: var(--alert-amber);
+  }
+  
+  .border-risk-red {
+    border-color: var(--risk-red);
+  }
+
+  .hover\:bg-signal-teal\/90:hover {
+    background-color: hsla(180, 100%, 32%, 0.9);
+  }
+  
+  .hover\:bg-electric-blue\/90:hover {
+    background-color: hsla(217, 78%, 56%, 0.9);
+  }
+
+  .bg-signal-teal\/20 {
+    background-color: hsla(180, 100%, 32%, 0.2);
+  }
+  
+  .bg-electric-blue\/20 {
+    background-color: hsla(217, 78%, 56%, 0.2);
+  }
+  
+  .bg-provenance-purple\/20 {
+    background-color: hsla(264, 67%, 48%, 0.2);
+  }
+  
+  .bg-alert-amber\/20 {
+    background-color: hsla(42, 100%, 55%, 0.2);
+  }
+  
+  .bg-risk-red\/20 {
+    background-color: hsla(0, 75%, 60%, 0.2);
+  }
+}

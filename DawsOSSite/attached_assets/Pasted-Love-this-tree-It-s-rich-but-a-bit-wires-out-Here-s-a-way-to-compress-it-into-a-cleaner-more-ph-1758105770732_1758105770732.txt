@@ -1,0 +1,129 @@
+Love this tree. It’s rich—but a bit “wires-out.” Here’s a way to compress it into a cleaner, more philosophical frame while keeping your technical depth reachable when you need it.
+
+# How I’d compress your tree (the recipe)
+
+* **Lead with meanings, not mechanics.** Rename clusters around human ideas—*promises, time, power, order, stories*—then tuck mechanics underneath.
+* **Merge by purpose.** If several branches do the same job (e.g., “move discount rates”), they live together even if the plumbing differs.
+* **Demote jargon to “how” layers.** Keep collateral haircuts, swap lines, YCC, etc. as sub-nodes under the plain-English parent.
+* **Keep a tiny signal panel.** One page of dials routes back to all the detail when needed.
+
+---
+
+# The 10 “philosophical chapters” (with your branches mapped)
+
+1. **Promises & Exchange** — *What money really is*
+
+   * Plain idea: The economy is people swapping promises for stuff over time.
+   * Keep under here: transactions model, money vs credit, inside vs outside money, sector balances.
+   * Maps: (1) core; 1.2, 1.13, 1.8, 1.9, 1.14–1.16, 1.19–1.22.
+
+2. **Time & Rhythm** — *Why things boom and bust*
+
+   * Plain idea: Short breaths (business cycles) inside long tides (big debt cycles).
+   * Keep: short-term cycle, long-term cycle, 9-stage Big Debt Cycle (as the “novel arc”).
+   * Maps: (2) all; (3) stages + 3.A–3.G; 2.7–2.16; 2.12–2.15; 2.11.
+
+3. **The Rulebook & Its Tools** — *How referees change the game*
+
+   * Plain idea: When price cuts (MP1) can’t do it, balance-sheet and fiscal levers (MP2/MP3) step in; repression/controls (MP4/MP5) are the emergency kit.
+   * Keep: MP0–MP5 taxonomy, expectations/term-premium control, balance-sheet mechanics, fiscal mix.
+   * Maps: (4) all; 4.D–4.N; 4.E–4.I; 4.J–4.M; (28) policy-mix.
+
+4. **Real Stuff vs. Paper Claims** — *Productivity vs leverage*
+
+   * Plain idea: Lasting wealth comes from making more per hour; leverage only borrows time from the future.
+   * Keep: productivity, discounting channels (real/term/credit/equity premia), collateral & haircuts, financial accelerator.
+   * Maps: (1) productivity, 1.3, 1.4, 1.10, 1.16–1.18, 29.
+
+5. **The House & the Neighborhood** — *Your country vs the world*
+
+   * Plain idea: External balance sheets decide who bends and who breaks in stress.
+   * Keep: current account, NIIP, FX regimes, defense/devaluation mechanics, terms-of-trade.
+   * Maps: (6) all; 6.7–6.17; 6.8 trilemma; 6.11 ToT; 6.12 Dollar/GFCycle.
+
+6. **Power & Order** — *Why some currencies and systems lead*
+
+   * Plain idea: Education → innovation → income → military → reserve status; internal/external order cycles raise or lower trust.
+   * Keep: Country Power Index, changing world order, weaponized finance, safe-asset scarcity.
+   * Maps: (5) all; 5.6–5.15; 5.8, 5.10, 5.C, 5.D, 15 (roots R1–R15 plug here too).
+
+7. **Stories & Behavior** — *Narratives steer the ship*
+
+   * Plain idea: What people believe about tomorrow sets prices today.
+   * Keep: expectations, narrative regimes, information cascades, retail microstructure.
+   * Maps: (32), (45), (46), (41) revisions, (42) nowcasting.
+
+8. **Invisible Gears** — *Plumbing that turns small shocks into big moves*
+
+   * Plain idea: Collateral chains, dealer balance sheets, basis trades, and settlement frictions throttle liquidity.
+   * Keep: repo haircuts, x-ccy basis, dealer capacity, UST auction micro, options/convexity, MBS/convexity, CTAs/RP.
+   * Maps: (7.1–7.5), (21), (24–27), (70–76), (25–26), (22–23), (66).
+
+9. **Fairness & Cohesion** — *Who bears the adjustment*
+
+   * Plain idea: How losses are spread (austerity, transfers, restructurings, monetization) sets politics and persistence.
+   * Keep: distributional MP (HANK), social stability indicators, tax/automatic stabilizers, governance & reform capacity.
+   * Maps: 1.20; (3.C), (39), (36), (80); (38) households; (58–60) policy shocks.
+
+10. **Signals & Simple Playbooks** — *A small dashboard that routes to all of the above*
+
+* Plain idea: A few dials tell you which chapter is in charge.
+* Keep: real yields & term premium, credit impulse & DSR, collateral/funding stress, BoP heatmap, policy-mix meter.
+* Maps: (9.1–9.5) + your “Minimal Marker Set,” plus (30) external vuln.
+
+---
+
+## “Rosetta” mapping (old → new)
+
+* (1) Machine/transactions, inside/outside money, premia/discounting → **Promises & Exchange** + **Real vs Paper**
+* (2) Debt cycles; (3) 9 stages → **Time & Rhythm**
+* (4) MP0–MP5; expectations/YCC/QE plumbing → **Rulebook & Tools**
+* (5) Changing World Order/CPI → **Power & Order**
+* (6) Currency & BoP mechanics → **House & Neighborhood**
+* Market plumbing, collateral, dealers, options, issuance → **Invisible Gears**
+* Narratives/nowcasting/revisions/retail → **Stories & Behavior**
+* Distribution, social stability, tax/stabilizers → **Fairness & Cohesion**
+* Monitoring dashboards/marker sets → **Signals & Playbooks**
+
+---
+
+## Keep the asset heuristics, make them human
+
+* **When growth and inflation both cool and the Rulebook leans to QE/fiscal:** real yields fall → *long duration, gold, JPY; equities muted.*
+* **When inflation runs and policy is credible/tight:** real yields rise → *short duration, USD firm, gold softens vs real-rate headwind; equities de-rate.*
+* **When a current-account-deficit country is hit:** defend FX with hikes/reserves → *domestic demand down, later devaluation; local real assets/commodities protect.*
+* **When collateral haircuts jump or dealer balance sheets shrink:** forced de-risking → *safe-havens up, spreads wider.*
+* **When stories flip hawkish without new facts:** term premium can rise on narrative → *duration struggles, gold mixed.*
+
+---
+
+## What gets pared back (but not lost)
+
+* **Detailed micro (e.g., x-ccy basis, LDI convexity, auction tails)**: lives under **Invisible Gears** as expandable nodes.
+* **Long lists of policy variants (MP0–MP5 sub-tools)**: stay under **Rulebook & Tools**; reference only when the dashboard points there.
+* **The MPI/Pure-Alpha replication specifics**: fold under the relevant asset-routing examples inside **Signals & Playbooks**.
+
+---
+
+## One-page dashboard (the only table you “see” every day)
+
+* **Real 5y/10y & term premium** → which of *duration/gold/equities* gets the baton.
+* **Credit impulse & DSR** → where the private-sector breath is heading.
+* **Collateral/funding stress (haircuts, basis, dealer depth)** → risk of nonlinear moves.
+* **BoP fragility (NIIP, CA, ST external debt/reserves, ToT)** → FX crash-risk map.
+* **Policy stance (QE/QT, fiscal impulse, caps/controls)** → which toolset is live.
+  Each dial links back to the full chapter.
+
+---
+
+## Tone shift (technical → philosophical language swaps)
+
+* “Monetary Policy 2/3” → **“the balance-sheet lever / the income lever.”**
+* “Deleveraging” → **“sharing and shrinking the promises.”**
+* “Collateral haircuts rise” → **“trust in IOUs falls; lenders demand more cushion.”**
+* “Term premium” → **“extra pay investors want for owning the future.”**
+* “Current-account deficit defense” → **“protecting the currency before accepting a pay-cut to the world.”**
+
+---
+
+If you want, I can convert this 10-chapter frame into an updated SPO edge list so you can slot it into your map without losing any of your original branches.

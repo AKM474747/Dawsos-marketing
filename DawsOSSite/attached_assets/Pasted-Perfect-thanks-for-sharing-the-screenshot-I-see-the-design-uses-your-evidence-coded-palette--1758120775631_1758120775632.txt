@@ -1,0 +1,91 @@
+Perfect — thanks for sharing the screenshot. I see the design uses your **evidence-coded palette** (teal/blue/purple/amber/red), the “two clicks to evidence” principle, and a clean marketing layout.
+
+Here’s how you can structure a **“How It Works” product story on your corporate site**, building on this design:
+
+---
+
+# 🔎 Narrative Flow for Website UI
+
+### 1. Start with the Hook (Hero Section)
+
+* **Headline (already good):** “Shows how shocks travel through markets.”
+
+* **Refinement for real estate/business visitors:**
+
+  * Option A: “See how shocks ripple through your portfolio.”
+  * Option B: “From rate hikes to rent defaults — trace every causal link.”
+
+* **Supporting subline:**
+
+  * “Who’s next, how fast, how sure — always with evidence you can defend.”
+
+* **Interactive causal path widget** (already in place):
+
+  * Step through *Event → Chain → Impact*.
+  * Highlight calibration (e.g., “Confidence: 0.87 ± 0.03”).
+  * CTA: “View Evidence (2 clicks).”
+
+---
+
+### 2. How It Works (3-step flow)
+
+Keep it simple, aligned to **business user language**:
+
+1. **Start with any signal**
+
+   * “A rate hike, a zoning policy, or a supply chain delay.”
+   * (Icon: ⚡ Signal).
+
+2. **Get the ripple map**
+
+   * “See who’s impacted next, with timing and confidence.”
+   * (Icon: 🌊 Ripple).
+
+3. **Act with evidence**
+
+   * “Every forecast comes with its causal path and provenance. Replay any analysis.”
+   * (Icon: ✅ Evidence).
+
+---
+
+### 3. Value Proposition Tiles (below the fold)
+
+3–4 short, dense cards:
+
+* **Two clicks to evidence** → “Every claim is linked to its source.”
+* **Calibrated confidence** → “Probabilities meet strict error guarantees.”
+* **Replayable snapshots** → “Reproduce any analysis, anytime.”
+* **Governed by design** → “Immutable rules enforce explainability and compliance.”
+
+---
+
+### 4. Sector-specific Callouts
+
+For Real Estate/Finance:
+
+* “Understand how rate hikes flow into mortgage resets, arrears, and litigation.”
+* “Scenario Builder helps test rent control or zoning policy changes — instantly.”
+
+---
+
+### 5. Conversion / CTA
+
+* **Primary CTA:** “Book a Demo.”
+* **Secondary CTA:** “See How It Works.”
+* Both are already in your design — good placement.
+
+---
+
+# 🖥️ Suggestions for UI polish
+
+* Make the **Interactive Causal Path** box clickable with hover animations (edge highlights, confidence bars).
+* Add **microcopy tags** under the widget (e.g., *“Calibration: within SLO”*, *“Replay with snapshot”*).
+* Use **dotted edges** in the widget to indicate *pattern-derived* (virtual) links vs. solid edges for facts — matches your brand north star rules.
+
+---
+
+⚡ This way, the website shows **what the system does** (shocks → paths → evidence), **how it works** (3 steps), and **why it matters** (business-grade, auditable, compliant).
+
+---
+
+Would you like me to **mock up a “Real Estate” version of this website UI** (same style, but with sector-specific examples like *Rate hike → Mortgage resets → Tenant arrears → Legal exposure*)? That could help you pitch to property management executives more directly.

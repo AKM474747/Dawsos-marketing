@@ -1,0 +1,41 @@
+Awesome—here’s a clean, ready-to-use “About” for DawsOS plus a crisp founders’ vision and short bios. I pulled Michael’s professional details from CAAT’s site and industry notices so the facts are buttoned-up.
+
+# About DawsOS
+
+DawsOS is a modern operating layer for organizations—connecting data, decisions, and day-to-day execution so teams can move faster with confidence. We blend institutional-grade financial discipline with practical, on-the-ground operations to turn strategy into repeatable results.
+
+From the first workflow to your thousandth user, DawsOS gives you a single place to orchestrate processes, measure impact, and continuously improve—without adding complexity.
+
+# Our Founders’ Vision
+
+We believe every organization deserves an “OS” that makes excellence the default: decisions grounded in data, governance built-in, and workflows that are simple for people to follow. DawsOS exists to bring the best of enterprise-level rigor to growing teams, so they can scale responsibly, serve their communities, and stay resilient through change. We’re building tools that are transparent, interoperable, and human-centered—because great systems should feel effortless.
+
+# Founders
+
+## Michael Dawson — Co-founder
+
+Michael is the Chief Financial Officer at the CAAT Pension Plan, where he oversees investment finance, corporate finance, FP\&A, and operational risk—bringing two decades of experience across finance, technology, and transformation. Before CAAT, he held senior roles at BlackRock and PwC and served as Treasurer and Director for the Adoption Council of Ontario. He is a CPA, CA and a CFA charterholder. ([caatpension.ca][1])
+
+## Andrew Murphy — Co-founder
+
+Andrew is an operator and finance leader focused on building durable, people-first organizations. He currently serves as Chief Operating Officer at WeatherLok Metal Roofing System and previously spent eight years at BMO in Corporate Finance, Senior/Upper Mid-Market analysis, and Business Banking. Andrew holds an MBA from Smith School of Business at Queen’s University and is active in community initiatives and volunteer work.
+
+# What We Stand For
+
+* **Rigor by default.** Financial discipline and clear governance, built into the product experience.
+* **Practical first.** Tools should reduce steps, not add them.
+* **Human-centered.** Designed for real teams, not just PowerPoints.
+* **Open & interoperable.** Connect your data, don’t silo it.
+* **Security from day one.** Trust is a feature, not an afterthought.
+
+# Boilerplate (press-ready)
+
+DawsOS is the operating system for modern organizations—connecting workflows, governance, and insights so teams can scale with confidence. Founded by finance executive Michael Dawson and operator Andrew Murphy, DawsOS brings enterprise-grade rigor to everyday execution.
+
+---
+
+If you want, I can tailor this to a specific audience (e.g., enterprise buyers vs. SMB), or adjust the tone (more technical, more brand-story, etc.).
+
+**Sources for Michael’s bio:** CAAT leadership profile and appointment notices confirming role, scope, and credentials. ([caatpension.ca][1])
+
+[1]: https://www.caatpension.ca/people/Michael-Dawson.html?utm_source=chatgpt.com "Michael Dawson - caatpension.ca"
